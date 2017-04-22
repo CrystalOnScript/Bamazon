@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "allows three different views; customer, manager, and supervisor. Allows customer to buy items, managers can add and view stock, supervisor can calculate sales.",
+  "main": "bamazonEnter.js",
+  "dependencies": {
+    "console.table": "^0.8.0",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrystalFaith/Bamazon.git"
+  },
+  "author": "Crystal F Lambert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrystalFaith/Bamazon/issues"
+  },
+  "homepage": "https://github.com/CrystalFaith/Bamazon#readme"
+}
